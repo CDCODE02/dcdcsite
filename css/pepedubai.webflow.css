@@ -438,6 +438,11 @@ p {
 .span-primary {
   color: #fff;
 }
+.span-primary1 {
+  color: #fff;
+  width: 200px;
+  word-break: break-all;
+}
 
 .socail-icons-texts {
   color: #204712;
